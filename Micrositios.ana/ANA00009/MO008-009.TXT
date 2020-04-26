@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+PedidosDetalles		TAR	29	new record size: 29
+PedidosDetalles	IdProducto	RUB+		IdProducto is a new key

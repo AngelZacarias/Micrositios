@@ -1,0 +1,9 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Car	IdUser	CLEN*		IdUser item is now key
+Car	IdProduct	CLEN*		IdProduct item is now key
+Car	IdUserIdProduct	RUB+		IdUserIdProduct is a new key
+PedidosDetalles	IdPedido	CLEN*		IdPedido item is now key
+PedidosDetalles	IdUser	CLEN*		IdUser item is now key
+PedidosDetalles	IdUserIdPedido	RUB+		IdUserIdPedido is a new key
+PedidosTitulo	IdUser	CLEN*		IdUser item is now key
+Chat		NFI		new file

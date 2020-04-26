@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Products		TAR	185	new record size: 185
+Products	RutaImagen	RUB+		RutaImagen is a new item

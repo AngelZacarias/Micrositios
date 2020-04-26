@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Users		TAR	227	new record size: 227
+Users	NamePassword	RUB+		NamePassword is a new key
